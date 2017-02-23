@@ -1,0 +1,1 @@
+define(["./basicModel"],function(e){var t=new e("This is the title for the Contact page","100%");return t});

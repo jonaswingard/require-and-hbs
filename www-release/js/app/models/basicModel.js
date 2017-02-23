@@ -1,0 +1,1 @@
+define([],function(){function t(t,e){this.title=t,this.percentComplete=e}return t.prototype.getTitle=function(){return this.title},t.prototype.getPercentComplete=function(){return this.percentComplete},t});
